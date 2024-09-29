@@ -1,0 +1,11 @@
+{
+  "name": "trainings",
+  "version": "1.0.0",
+  "description": "A small application to calculate training metrics.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Error: no test specified'; false\""
+  },
+  "author": "Amy Marie Evans",
+  "license": "MIT License"
+}
